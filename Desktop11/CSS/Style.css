@@ -1,0 +1,214 @@
+.Desktop---11 {
+    width: 1440px;
+    height: 1024px;
+    flex-grow: 0;
+    padding: 23px 0 0;
+    background-color: #fff;
+  }
+
+  .Rectangle-74 {
+    width: 720px;
+    height: 937px;
+    margin: 29px 0 0;
+    padding: 232px 69px 307px 49px;
+    background-color: #00a0fc;
+  }
+
+  .A-melhor-soluo-para-clientes-e-mecnicos {
+    width: 602px;
+    height: 122px;
+    margin: 0 0 36px;
+    font-family: Inter;
+    font-size: 50px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+  }
+
+  .Texto-1 {
+    width: 602px;
+    height: 240px;
+    margin: 36px 0 0;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+  }
+
+  .Rectangle-75 {
+    width: 720px;
+    height: 937px;
+    margin: 29px 0 0;
+    padding: 42px 121px 59px 106px;
+    background-color: #ededed;
+  }
+
+  .Criao-de-conta {
+    width: 352px;
+    height: 41px;
+    margin: 0 141px 13px 0;
+    font-family: Inter;
+    font-size: 42px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #00a0fc;
+  }
+
+.Desktop---11 {
+    display: flex;
+}
+
+.Ja-tem-o-cdigo {
+    display: flex;
+    width: 205.1px;
+    height: 24.9px;
+    margin: 13px 282.9px 51.1px 5px;
+    font-family: Inter;
+    font-size: 21.5px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #616161;
+  }
+
+  .Nome {
+    width: 72px;
+    height: 29px;
+    margin: 51.1px 109px 10px 5px;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+
+  .Caixa-nome {
+    width: 488px;
+    height: 50px;
+    margin: 10px 0 32px 5px;
+    border-radius: 10px;
+    border: solid 3px #a8a8a8;
+    background-color: rgba(255, 255, 255, 0.44);
+  }
+
+  .Sobrenome {
+    width: 142px;
+    height: 29px;
+    margin: 32px 39px 10px 5px;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+  }
+
+  .Caixa-sobrenome {
+    width: 488px;
+    height: 50px;
+    margin: 10px 0 32px 5px;
+    border-radius: 10px;
+    border: solid 3px #a8a8a8;
+    background-color: rgba(255, 255, 255, 0.44);
+  }
+
+  .E-mail {
+    width: 78px;
+    height: 29px;
+    margin: 32px 103px 10px 5px;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+  }
+
+  .Caixa-e-mail {
+    width: 488px;
+    height: 50px;
+    margin: 10px 0 32px 5px;
+    border-radius: 10px;
+    border: solid 3px #a8a8a8;
+    background-color: rgba(255, 255, 255, 0.44);
+  }
+
+  .Caixa-selecione {
+    width: 488px;
+    height: 50px;
+    margin: 10px 0 23px 5px;
+    border-radius: 10px;
+    border: solid 3px #a8a8a8;
+    background-color: rgba(255, 255, 255, 0.44);
+  }
+
+  .Selecione {
+    width: 129px;
+    height: 29px;
+    margin: 32px 57px 10px 0;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+  }
+
+  .Caixa-entrar {
+    width: 266px;
+    height: 73px;
+    margin: 32px 222px 7px 5px;
+    border-radius: 10px;
+    background-color: #00a0fc;
+  }
+
+  .Requisitar-cdigo {
+    width: 219px;
+    height: 58px;
+    font-family: Inter;
+    font-size: 23px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ededed;
+  }
+
+  .Vector {
+    width: 32px;
+    height: 23.8px;
+    flex-grow: 0;
+    margin: 5.5px 0 0;
+    border: solid 2.6px #00a0fc;
+  }
